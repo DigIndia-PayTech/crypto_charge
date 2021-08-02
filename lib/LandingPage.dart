@@ -123,6 +123,7 @@ class _LandingPageState extends State<LandingPage> {
             )
           ],
           leading: null,
+          
         ),
         body: new Column(
           crossAxisAlignment: CrossAxisAlignment.center,
